@@ -16,7 +16,7 @@ class AboutComponent extends React.Component {
                                 I am a...
                                 </div>
                                 <div style={DescriptionStyle}>
-                                working professional looking for opportunities in product strategy. I have experience in consulting for automotive, 
+                                working professional looking for opportunities in product strategy. I have experience in technical consulting for automotive, 
                                 telecommunication, and technology companies.
                                 </div>
                             </Fade>
