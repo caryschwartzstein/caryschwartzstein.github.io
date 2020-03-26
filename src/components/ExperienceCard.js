@@ -69,7 +69,6 @@ const PicStyle = {
     maxHeight: 140,
     borderRadius: '50%',
     // marginRight: '72px',
-    opacity: '50%',
     border: '1px solid rgb(104,105,99,.5)'
 }
 
