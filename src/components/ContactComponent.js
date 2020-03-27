@@ -3,10 +3,7 @@ import styled from 'styled-components';
 import pdf from '../Assets/resume.pdf'
 
 import arrow from '../Assets/arrow.svg'
-import email from '../Assets/email.svg'
-import download from '../Assets/download.svg'
 
-import Fade from 'react-reveal/Fade';
 
 class ContactComponent extends React.Component {
     render() {

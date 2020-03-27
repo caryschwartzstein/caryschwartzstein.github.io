@@ -15,21 +15,21 @@ class StickyCirclesComponent extends React.Component {
                 <Fade delay={500}>
                     <Circle>
                         <a href="https://linkedin.com/in/caryschwartzstein">
-                            <img src={GreyLinkedin} style={PicStyle}></img>
+                            <img src={GreyLinkedin} style={PicStyle} alt={"Linkedin"}></img>
                         </a>
                     </Circle>
                 </Fade>
                 <Fade delay={600}>
                     <Circle>
                         <a class="mailto" href="mailto:cary.schwartzstein@gmail.com">
-                            <img src={GreyMail} style={PicStyle}></img>
+                            <img src={GreyMail} style={PicStyle} alt="E-mail"></img>
                         </a>
                     </Circle>
                 </Fade>
                 <Fade delay={700}>
                     <Circle>
                         <a href={resume} target="blank">
-                            <img src={GreyDownload} style={PicStyle}></img>
+                            <img src={GreyDownload} style={PicStyle} alt="Resume"></img>
                         </a>
                     </Circle>
                 </Fade>

@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import HeaderComponent from './components/HeaderComponent';
 import AboutComponent from './components/AboutComponent'
@@ -9,6 +8,7 @@ import AffiliatedComponent from './components/AffiliatedComponent'
 import ContactComponent from './components/ContactComponent';
 import StickyCirclesComponent from './components/StickyCirclesComponent';
 import SignOffComponent from './components/SignOffComponent';
+import ProjectsComponent from './components/ProjectsComponent'
 
 
 
@@ -21,6 +21,7 @@ function App() {
         <AboutComponent />
       </div>
       <Experience/>
+      <ProjectsComponent/>
       <SkillsComponent/>
       <AffiliatedComponent/>
       <ContactComponent/>

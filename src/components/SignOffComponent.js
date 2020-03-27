@@ -1,7 +1,5 @@
 import React from 'react';
 
-import Fade from 'react-reveal/Fade';
-
 class SignOffComponent extends React.Component {
     render() {
 

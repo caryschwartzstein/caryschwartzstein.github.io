@@ -22,7 +22,7 @@ class SkillsComponent extends React.Component {
                      MS Office &#9679; Sketch &#9679; Data Visualization &#9679; UI Design
                     </Skills>
                     <ImageOuter>
-                        <img src={technicalImage} style={PicStyle} alt="Technical Image"></img>
+                        <img src={technicalImage} style={PicStyle} alt="Technical"></img>
                     </ImageOuter>
                 </SkillTypeDesktop>
                 <SkillTypeDesktop>
@@ -34,7 +34,7 @@ class SkillsComponent extends React.Component {
                     Kanban &#9679; Marketing 
                     </Skills>
                     <ImageOuter>
-                        <img src={professionalImage} style={PicStyle} alt="Professional Image"></img>
+                        <img src={professionalImage} style={PicStyle} alt="Professional"></img>
                     </ImageOuter>
                 </SkillTypeDesktop>
                 <SkillTypeMobile>
@@ -42,7 +42,7 @@ class SkillsComponent extends React.Component {
                         Technical
                     </Caption>
                     <ImageOuter>
-                    <img src={technicalImage} style={PicStyle} alt="Technical Image"></img>
+                    <img src={technicalImage} style={PicStyle} alt="Technical"></img>
                     </ImageOuter>
                     <Skills>
                     Python &#9679; SQL &#9679; Java &#9679; HTML/CSS/JS &#9679; React &#9679;
@@ -55,7 +55,7 @@ class SkillsComponent extends React.Component {
                         Professional
                     </Caption>
                     <ImageOuter>
-                    <img src={professionalImage} style={PicStyle} alt="Professional Image"></img>
+                    <img src={professionalImage} style={PicStyle} alt="Professional"></img>
                     </ImageOuter>
                     <Skills>
                     Product Management &#9679; Business Analysis &#9679; Data Analysis &#9679; Agile &#9679; Scrum &#9679; 

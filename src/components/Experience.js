@@ -1,8 +1,6 @@
 import React from 'react';
 import Education from './Education';
 import Work from './Work';
-import Fade from 'react-reveal/Fade';
-
 
 
 class Experience extends React.Component {
